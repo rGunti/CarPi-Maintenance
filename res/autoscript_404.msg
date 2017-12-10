@@ -1,0 +1,1 @@
+The selected unit does not provide an automatic installation script. You have to update this unit manually by using the shell.
